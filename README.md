@@ -13,4 +13,3 @@ It takes an [CSV file](https://s3-us-west-2.amazonaws.com/nclouds-emr-demo/censu
 The [pyspark script](https://s3-us-west-2.amazonaws.com/nclouds-emr-demo/demo.py) calculates the sex ratio and adds it as a new column to the CSV and uploads it to the output bucket
 
 The output bucket must be specified while creating a stack.
-
